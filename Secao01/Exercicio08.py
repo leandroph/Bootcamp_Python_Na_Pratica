@@ -1,0 +1,5 @@
+print('-' * 50)
+print('Conversor de metros para quilômetros')
+valor = float(input('Digite um valor em metros: '))
+print(f'O valor {valor}m em quilômetros é {valor / 1000}km')
+print('-' * 50)
