@@ -224,7 +224,7 @@ Utilize o módulo datetime e mostre na tela a data e hora atual do sistema de ac
 1 | 12/06/2020 - 14:34:17
 ```
 
-## Exercício 34
+## Exercício 32
 
 Escreva um programa que inverta uma string. Exemplos:
 
